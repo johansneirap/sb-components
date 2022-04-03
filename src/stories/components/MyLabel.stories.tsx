@@ -48,3 +48,12 @@ CustomFontColor.args = {
     color: 'tertiary',
     fontColor: '#5517ac'
 }
+
+export const CustomBackgroundColor = Template.bind({});
+CustomBackgroundColor.args = {
+    size: 'normal',
+    allCaps: false,
+    color: 'tertiary',
+    fontColor: '#ffffff',
+    backgroundColor: '#000000'
+}
