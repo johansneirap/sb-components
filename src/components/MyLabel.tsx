@@ -36,4 +36,6 @@ export const MyLabel = ( { label='No Label', size='normal', color='primary', all
             { allCaps ? label.toUpperCase() : label }
         </span>
   )
-}
+};
+
+export default MyLabel;
