@@ -11,9 +11,7 @@
     "url": "https://github.com/johansneirap/sb-components"
   },
   "peerDependencies": {
-    "react": "^16.8.6",
-    "react-dom": "^16.8.6",
-    "typescript": "^3.7.5"
+    "react": "^16.8.6"
   },
   "release": {
     "publishConfig": {
